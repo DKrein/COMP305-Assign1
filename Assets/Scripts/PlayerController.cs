@@ -1,4 +1,10 @@
-﻿using UnityEngine;
+﻿/*
+ * Create by Douglas Krein
+ * Description: Script to controll the movment and shots of player
+ * 
+ * 
+*/
+using UnityEngine;
 using System.Collections;
 
 [System.Serializable]
